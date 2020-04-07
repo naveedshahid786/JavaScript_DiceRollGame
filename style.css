@@ -1,0 +1,37 @@
+*{
+    margin: 0; padding: 0;
+}
+body{
+    background-color: #30336b;
+}
+.container{
+    width: 60%; margin: auto; text-align: center;
+}
+.dice{
+    text-align: center; display: inline-block;
+}
+h1{
+    margin: 80px;
+    text-shadow: 5px 2px white;
+    font-size: 9rem;
+    color: #f6b93b;
+}
+p{
+    font-size: 3rem;
+    color: #00b894;
+    text-shadow: 1px 1px white;
+}
+button{
+    padding: 15px;
+    margin-top: 30px;
+    background-color: #00b894;
+    color: white;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 25px;
+}
+img{
+    width: 350px;
+    border-radius: 20px;
+}
